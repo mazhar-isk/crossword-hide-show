@@ -128,7 +128,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Title>NyabarJum</Title>
+        <Title strong style={{ color: 'white' }}>NyabarJum</Title>
         <div
           style={{
             margin: '1rem auto',
