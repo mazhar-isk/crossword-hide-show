@@ -55,7 +55,7 @@
   { "id": 52, "value": "B", "bordered": true, "boxNumber": 1, "show": false },
   { "id": 53, "value": "U", "bordered": true, "boxNumber": 0, "show": false },
   { "id": 54, "value": "G", "bordered": true, "boxNumber": 0, "show": false },
-  { "id": 55, "value": "A", "bordered": true, "boxNumber": 0, "show": false },
+  { "id": 55, "value": "A", "bordered": true, "boxNumber": 0, "show": true },
   { "id": 56, "value": "R", "bordered": true, "boxNumber": 0, "show": false },
   { "id": 57, "value": "", "bordered": false, "boxNumber": 0, "show": false },
   { "id": 58, "value": "", "bordered": false, "boxNumber": 0, "show": false },
