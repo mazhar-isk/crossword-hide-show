@@ -19,7 +19,7 @@ export default function Box({
           borderColor: isActive ? 'black' : '#E92124',
           color: '#E92124',
           fontSize: '18px',
-          opacity: isActive ? 1 : 0.5,
+          opacity: (show || isActive) ? 1 : 0.5,
         }}
       >
         <span>{show ? value : ''}</span>
